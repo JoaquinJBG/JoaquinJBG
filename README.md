@@ -1,6 +1,6 @@
 # Hola, soy Joaquín 👋
 
-**Desarrollador Full Stack** · Python · TypeScript · Java
+**Desarrollador Full Stack** · Python · NextJS · TypeScript · Java
 
 Construyo aplicaciones web de extremo a extremo: APIs con Django REST Framework y
 Spring Boot, interfaces con Next.js y Angular, y pipelines que integran IA generativa
