@@ -1,4 +1,4 @@
-# Hola, soy Joaquín 👋
+# Hola, soy Joaquín 
 
 **Desarrollador Full Stack** · Python · NextJS · TypeScript · Spring Boot · Construyendo productos con IA generativa
 
